@@ -10,8 +10,8 @@ Understanding how energy consumption varies with a 1°C increase or decrease in 
 
 ## Device & Correlation
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="Image/device.png" alt="device" style="height: 400px; object-fit: contain;">
-    <img src="Image/Correlation.png" alt="Correlation" style="height: 400px; object-fit: contain;">
+    <img src="Image/device.png" alt="device" style="height: 300px; object-fit: contain;">
+    <img src="Image/Correlation.png" alt="Correlation" style="height: 300px; object-fit: contain;">
 </div>
 
 
