@@ -10,8 +10,8 @@ Understanding how energy consumption varies with a 1°C increase or decrease in 
 
 ## IoT measurement device 
 This device consists of 3 parts, thermal environment measurement module, indoor air quality module(CO2, pm2.5,pm10) and text recognition module.
-- For thermal comfort index you can check [**pmv**](https://github.com/Raskiller503/Thermal-comfort-tool-)
-- For text recognition you can check [**Set-point control panel**](https://github.com/Raskiller503/ImageRecognition-AC-pannel-_-OpenCV)
+- For calculation of thermal comfort index you can check [**pmv**](https://github.com/Raskiller503/Thermal-comfort-tool-)
+- For Image text recognition method by OpenCV you can check [**Set-point control panel**](https://github.com/Raskiller503/ImageRecognition-AC-pannel-_-OpenCV)
 <p align="center">
   <img src="Image/device.png" width=300 alt="device">
 </p>
