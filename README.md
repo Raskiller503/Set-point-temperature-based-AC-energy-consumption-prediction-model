@@ -119,10 +119,7 @@ This project uses real-world HVAC data collected from sensors. The primary objec
     ```
 ## Accuracy
 
-<div style="display: flex; justify-content: space-between; align-items: center; height: 300px;">
-    <img src="Image/四种模型.png" alt="result" width="47%">
-    <img src="Image/评估.png" alt="Cross-validation" width="47%"">
-</div>
-
-
+<p align="center">
+  <img src="Image/四种模型.png" width=300  alt="result">
+</p>
 
