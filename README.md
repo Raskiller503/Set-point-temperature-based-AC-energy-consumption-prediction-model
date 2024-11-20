@@ -71,7 +71,7 @@ sudo apt install xrdp
 ## Correlation
 The dataset was collected in Summer, we could find that set-point temperature has the most negative influence to HVAC energy consumption.
 <p align="center">
-  <img src="Image/Correlation.png" width=300  alt="Correlation">
+  <img src="Image/Heatmap.png" width=500  alt="Correlation">
 </p>
 
 # Machine Learning model algorithm
