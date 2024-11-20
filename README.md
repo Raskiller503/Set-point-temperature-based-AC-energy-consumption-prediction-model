@@ -84,9 +84,7 @@ This project implements a machine learning pipeline to predict HVAC (Heating, Ve
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Visualization](#visualization)
+- [Installation](#installation)<!-- - [Usage](#usage)- [Visualization](#visualization) -->
 - [Model Performance](#model-performance)
 - [Future Work](#future-work)
 
@@ -123,3 +121,8 @@ This project uses real-world HVAC data collected from sensors. The primary objec
   <img src="Image/四种模型.png" width=500  alt="result">
 </p>
 
+## Future Work
+We have proposed one Model Predicitive Control(MPC) model based on thermal comfort & HVAC energy, which will be open access later.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
