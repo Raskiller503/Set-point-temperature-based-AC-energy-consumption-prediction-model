@@ -71,6 +71,48 @@ The dataset was collected in Summer, we could find that set-point temperature ha
 
 # Machine Learning model algorithm
 
+This project implements a machine learning pipeline to predict HVAC (Heating, Ventilation, and Air Conditioning) energy consumption based on indoor and outdoor environmental parameters. It leverages various machine learning models, such as Logistic Regression, Gradient Boosting Classifier, and Support Vector Machine (SVM), to analyze data and make predictions.
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Visualization](#visualization)
+- [Model Performance](#model-performance)
+- [Future Work](#future-work)
+
+---
+
+## Overview
+
+This project uses real-world HVAC data collected from sensors. The primary objective is to develop a reliable prediction model for energy consumption, providing actionable insights for energy-saving and operational efficiency in HVAC systems.
+
+---
+
+## Features
+
+- Support for multiple machine learning models, including:
+  - Logistic Regression
+  - Gradient Boosting Classifier
+  - Support Vector Machine (SVM)
+- Hyperparameter tuning with cross-validation.
+- Visualization of predictions, training data, and decision boundaries.
+- Compatibility with multi-dimensional feature sets.
+- 3D visualization for selected feature combinations.
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/HVAC-Energy-Prediction.git
+    ```
+
 
 
 
