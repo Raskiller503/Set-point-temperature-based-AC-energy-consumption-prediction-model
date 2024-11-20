@@ -117,9 +117,9 @@ This project uses real-world HVAC data collected from sensors. The primary objec
    ```bash
    git clone https://github.com/Raskiller503/Set-point-temperature-based-AC-energy-consumption-prediction-model/blob/main/Code/Cross-Validation.py
     ```
-## Accuracy
+## Model Performance
 
 <p align="center">
-  <img src="Image/四种模型.png" width=300  alt="result">
+  <img src="Image/四种模型.png" width=500  alt="result">
 </p>
 
