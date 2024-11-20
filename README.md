@@ -62,6 +62,11 @@ Run the following commands to install XRDP:
 sudo apt update
 sudo apt install xrdp 
 ```
+## Dataset
+<div style="display: flex; justify-content: space-between align=center;">
+    <img src="Image/Hourly_MRT.png" alt="Hourly_MRT" width="45%">
+    <img src="Image/Hourly_PMV.png" alt="Hourly_PMV" width="45%">
+</div>
 
 ## Correlation
 The dataset was collected in Summer, we could find that set-point temperature has the most negative influence to HVAC energy consumption.
@@ -114,10 +119,9 @@ This project uses real-world HVAC data collected from sensors. The primary objec
     ```
 ## Accuracy
 
-<p align="center">
-  <img src="Image/四种模型.png" width=500  alt="result">
-</p>
-
-
+<div style="display: flex; justify-content: space-between align=center;">
+    <img src="Image/四种模型.png" alt="result" width="45%">
+    <img src="Image/评估.png" alt="Cross-validation" width="45%">
+</div>
 
 
