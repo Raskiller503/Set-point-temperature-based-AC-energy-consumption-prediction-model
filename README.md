@@ -110,7 +110,7 @@ This project uses real-world HVAC data collected from sensors. The primary objec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/HVAC-Energy-Prediction.git
+   git clone https://github.com/Raskiller503/Set-point-temperature-based-AC-energy-consumption-prediction-model/blob/main/Code/Cross-Validation.py
     ```
 
 
